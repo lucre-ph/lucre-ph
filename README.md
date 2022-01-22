@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-# Here's a list of my deployed sites/projects, feel free to check them out 😄
+### Here's a list of my deployed sites/projects, feel free to check them out 😄
 - Web-development: https://viajeideal.000webhostapp.com/index.html
 - Javascript: 
 - React JS:
