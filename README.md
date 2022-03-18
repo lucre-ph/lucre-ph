@@ -1,5 +1,7 @@
 ## Hello World 👋
 
+[Check out my landing page here](https://lucre-ph.github.io/cv/)
+
 ### Here's a list of my deployed sites/projects, feel free to check them out 😄
 - Web-development: https://viajeideal.000webhostapp.com/index.html
 - Javascript: 
