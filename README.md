@@ -4,6 +4,7 @@
 
 ### Here's a list of my deployed sites/projects, feel free to check them out 😄
 - Web-development: https://viajeideal.000webhostapp.com/index.html
+- Web-design: https://lucrebakery.000webhostapp.com/ 
 - Javascript: 
 - React JS:
 
