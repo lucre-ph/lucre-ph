@@ -4,7 +4,7 @@
 
 ### Here's a list of my deployed sites/projects, feel free to check them out 😄
 - Web-design: https://lucrebakery.000webhostapp.com/ 
-- Web-development: https://viajeideal.000webhostapp.com/index.html
+- Web-development: https://shiny-torte-cfccc8.netlify.app/
 - Javascript: 
 - React JS:
 
